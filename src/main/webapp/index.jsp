@@ -1,6 +1,4 @@
 
-<%@ page language="java" import="java.util.*" %>
-
 <html>
 <body>
 <h2>JBehaveTestApp</h2>

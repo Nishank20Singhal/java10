@@ -1,6 +1,4 @@
-<%@ page import="com.heroku.cloudcalc.Calculator" %>
-<%@ page language="java" import="java.util.*" %>
-<%@ page import="java.text.*" %>
+
 <html>
 <body>
 <h2>JBehaveTestApp</h2>
